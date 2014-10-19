@@ -9,7 +9,7 @@ sudo apt-add-repository ppa:chris-lea/redis-server
 
 sudo apt-get update
 sudo apt-get upgrade
-sudo apt-get install -y nodejs mongodb redis-server git openjdk-7-jre
+sudo apt-get install -y nodejs redis-server git openjdk-7-jre
 
 sudo npm install -g grunt-cli forever
 
